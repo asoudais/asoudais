@@ -3,7 +3,7 @@
 - 🎓 I'm a computational astrophysicist
 - 💻 I’m interested in high-performance computing and numerical methods
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: adrien.soudais@univ-grenoble-alpes.fr
+- 📫 How to reach me: adrien.g.soudais@dartmouth.edu
 - 😄 Pronouns: (he/him)
 - ⚡ Fun fact: I play drums and table tennis
   
